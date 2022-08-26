@@ -16,7 +16,7 @@ I made the navbar and slider with bootstrap 5.2
 
 <img src="image/readme%20resim%202.png" alt="drawing" style="width:800px;"/>
 
-There are 3 products on the main page. if you click the x button it will go to the products page.
+There are 3 products on the main page. if you click the `Tümünü gör` button it will go to the products page.
 
 ***********
 
