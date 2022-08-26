@@ -1,0 +1,72 @@
+.modal-body {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.crosshair-detay-bilgileri {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 10px;
+}
+.crosshair-detay-bilgileri p {
+    margin: 0;
+}
+.form-control {
+    width: 30%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.form-check-label {
+    color: #fff;
+}
+.radio-button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.card {
+    width: 459px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.card .image {
+    height: 270px;
+}
+
+.card .card-body {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.card .card-body .magaza-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card .card-body .magaza-logo a {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card .card-body .magaza-logo a img {
+    width: 30px;
+}
+
+@media screen and (max-width : 762px) {
+    .card {
+        margin: 0;
+        margin-bottom: 40px;
+    }
+}
+
+.cicek-sepeti {
+    width: 50px;
+}
