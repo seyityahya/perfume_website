@@ -5,7 +5,7 @@ This project is built with html5, css3 and bootstrap 5.2
 
 project published with amazon aws
 
-You can see the published version of the project here [revscent.com]([www.revscent.com](http://www.revscent.com/))
+You can see the published version of the project here [revscent.com](http://www.revscent.com/)
 
 <img src="image/readme%20resim%201.png" alt="drawing" style="width:800px;"/>
 
